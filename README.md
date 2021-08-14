@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![alt text][url=https://www.hizliresim.com/77yh86w][img]https://i.hizliresim.com/77yh86w.png[/img][/url]
+![alt text](https://i.hizliresim.com/77yh86w.png)
 
 #Installation
 Öncelikle projeyi clonelayın.
