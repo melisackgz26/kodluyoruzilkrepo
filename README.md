@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![alt text](https://github.com/[melisackgz26]/[kodluyoruzilkrepo]/pic/hic.png?raw=true)
+![alt text][url=https://www.hizliresim.com/77yh86w][img]https://i.hizliresim.com/77yh86w.png[/img][/url]
 
 #Installation
 Öncelikle projeyi clonelayın.
